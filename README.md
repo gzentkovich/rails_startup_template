@@ -2,12 +2,12 @@
 
 This is a template I use for my new Ruby on Rails 4 applications. **Pull requests are welcome.**
 
-Also check out [Startup Readings](https://github.com/dennybritz/startupreadings).
+Also check out [Startup Readings](https://github.com/GrandSlam/startupreadings).
 
 ## How to Use
 
 ```bash
-rails new [app_name] -m https://raw.github.com/dennybritz/rails_startup_template/master/template.rb
+rails new [app_name] -m https://raw.github.com/GrandSlam/rails_startup_template/master/template.rb
 ```
 
 ## What it does
